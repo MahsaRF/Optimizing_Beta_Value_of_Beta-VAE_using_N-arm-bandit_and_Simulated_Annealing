@@ -6,4 +6,4 @@ the β value of β-VAE automatically during the training time.
 dataset dependent, and the model is not truly trained unsupervised if it is not learned automatically. In this paper, we
 propose an n-arm-bandit and Simulated Annealing based β optimization technique, which learns the β value automatically based on the update of the loss function. Our approach improved the image generation performance of VAE but lostreconstruction accuracy slightly.
 
-This project was submitted as part of a Advanced Machine Learning class taught by Professor Ricardo Vilalta at the University of Houston Spring 2022
+This project was submitted as part of the Advanced Machine Learning class taught by Professor Ricardo Vilalta at the University of Houston Spring 2022
