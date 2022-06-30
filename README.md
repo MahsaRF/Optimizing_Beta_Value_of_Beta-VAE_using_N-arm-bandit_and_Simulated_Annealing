@@ -1,4 +1,4 @@
-# Optimizing the Beta Value of β-VAE using N-arm-bandit and Simulated Annealing
+# Optimizing Beta Value in β-VAE using N-arm-bandit and Simulated Annealing
 
 As part of a collaborative project, we worked on β-VAE, a variation of VAE (Variational Autoencoder) and proposed a framework to optimize
 the β value of β-VAE automatically during the training time.
